@@ -9,17 +9,17 @@ Task 3 Solution
 There are two solutions to the problem: |1001> and |1100>:
 
 X | O | O
-_________
+&mdash&mdash&mdash
 X | X | O   ==> |1001>
-_________
+&mdash&mdash&mdash
 O | O | X
 
 
 
 X | O | O
-_________
+&mdash&mdash&mdash
 X | X | X   ==> |1100>
-_________
+&mdash&mdash&mdash
 O | O | O
 
 I chosed the Grover Algorithm to solve the problem. The main solution is in task3/task3.ipynb. 
@@ -27,6 +27,8 @@ I chosed the Grover Algorithm to solve the problem. The main solution is in task
 ------------------
 2. The Bonus Task
 ------------------
+
+TODO continue
 
 I chosed the Grover Algorithm to solve the problem. The bonus solution is in task3/task3_bonus.ipynb. 
 
