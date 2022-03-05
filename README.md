@@ -28,12 +28,12 @@ I chosed the Grover Algorithm to solve the problem. The main solution is in task
 2. The Bonus Task
 ------------------
 
-TODO continue
+In a similar matter, solutions to the problem are: |00101>, |00110>, |01100>, |10001>, |10100>, |11000>.
 
-I chosed the Grover Algorithm to solve the problem. The bonus solution is in task3/task3_bonus.ipynb. 
+I again used the Grover Algorithm to solve the problem. The bonus solution is in task3/task3_bonus.ipynb. 
 
 References
 -----------
 1. https://qiskit.org/textbook/ch-algorithms/grover.html
 2. https://quantumcomputing.stackexchange.com/questions/15945/implementing-grovers-oracle-with-multiple-solutions-in-qiskit
-3. Oracle created with help of https://qiskit.org/documentation/apidoc/classicalfunction.html
+3. Oracles created with help of https://qiskit.org/documentation/apidoc/classicalfunction.html
